@@ -32,7 +32,7 @@ export default function Header() {
           <div className="flex justify-between items-center w-full md:w-auto">
             <div className="flex gap-6 items-center">
                <div className="">  
-              <img className="w-12 h-auto" src="../../public/img/kettbll.png" alt="" />
+              <img className="w-12 h-auto" src="./img/kettbll.png" alt="" />
                </div>
                <h1 className="font-forum text-5xl">Juli Merlo</h1>
             </div>
