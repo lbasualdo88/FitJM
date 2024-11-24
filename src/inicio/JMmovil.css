@@ -1,0 +1,7 @@
+.sticky-container{
+    background-image: url('../../public/img/movil.avif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40em;
+}
